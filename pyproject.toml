@@ -3,12 +3,12 @@ requires = ["setuptools>=64.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dapro"
+name = "mysimplepackage"
 version = "0.0.1"
 authors = [
-  { name="Tan Quang Duong", email="tquangbk@gmail.com"},
+  { name="Author Name", email="name@gmail.com"},
 ]
-description = "A demo package for data processing. Allow to read hyperparameter as input. MultiSubpackage of processing"
+description = "A demo package for the Python Packaging User Guide"
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -24,4 +24,4 @@ dependencies = {file = ["requirements.txt"]}
 packages = ["dapro"]
 
 [project.urls]
-"Homepage" = "https://github.com/tanquangduong"
+"Homepage" = "https://github.com/"

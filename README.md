@@ -2,5 +2,12 @@
 
 🚀 Develop, Install and Publish a demo python package - "MySimplePackage" 🚀
 
-
-## ✅ Install package LOCALLY and test/use the package 
+## ✅ Create python environment
+```
+conda create -n env_name python=3.10
+conda activate env_name
+```
+## ✅ Install package LOCALLY 
+```
+pip install -e .
+```
