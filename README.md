@@ -1,6 +1,6 @@
 # Master building Python package
 
-🚀 Develop, Install and Publish a demo python package - "MySimplePackage" 🚀
+🚀 Develop, Install and Publish a demo python package - "pypackage" 🚀
 
 ## ✅ Create python environment
 ```

@@ -3,7 +3,7 @@ requires = ["setuptools>=64.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mysimplepackage"
+name = "pypackage"
 version = "0.0.1"
 authors = [
   { name="Author Name", email="name@gmail.com"},
