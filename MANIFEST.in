@@ -1,1 +1,1 @@
-recursive-include pypackage/test *
+recursive-include simplepypackage/test *
