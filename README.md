@@ -2,12 +2,12 @@
 
 🚀 Develop, Install and Publish a demo python package - "simplepypackage" 🚀
 
-
+## ✅ Source code structure
 ```
 ├───simple-python-package
 │   ├───symplepypackage
 │   │   ├───calculator.py
-│   │   └───__init__.py
+│   │   ├───__init__.py
 │   │   └───test
 │   │       ├───test_calculator.py
 │   │       └───__init__.py
@@ -15,7 +15,7 @@
 │   ├───requirements-test.txt
 │   ├───pyproject.toml
 │   ├───MANIFEST.in
-│   └───README.md
+│   ├───README.md
 │   ├───.github
 │   │   └───workflows
 │   │       └───test-python-package.yml
@@ -26,7 +26,7 @@
 conda create -n env_name python=3.10
 conda activate env_name
 ```
-## ✅ Install package LOCALLY 
+## ✅ Install package locally 
 ```
 pip install -e .
 ```
