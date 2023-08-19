@@ -24,4 +24,4 @@ dependencies = {file = ["requirements.txt"]}
 packages = ["simplepypackage"]
 
 [project.urls]
-"Homepage" = "https://github.com/"
+"Homepage" = "https://github.com/tanquangduong/simple-python-package"
