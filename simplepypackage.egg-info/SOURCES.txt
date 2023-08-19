@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+simplepypackage/__init__.py
+simplepypackage/calculator.py
+simplepypackage.egg-info/PKG-INFO
+simplepypackage.egg-info/SOURCES.txt
+simplepypackage.egg-info/dependency_links.txt
+simplepypackage.egg-info/requires.txt
+simplepypackage.egg-info/top_level.txt
+simplepypackage/test/__init__.py
+simplepypackage/test/test_calculator.py
+simplepypackage/test/__pycache__/__init__.cpython-310.pyc
+simplepypackage/test/__pycache__/test_calculator.cpython-310-pytest-7.4.0.pyc

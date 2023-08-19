@@ -21,7 +21,7 @@ dynamic = ["dependencies"]
 dependencies = {file = ["requirements.txt"]}
 
 [tool.setuptools]
-packages = ["dapro"]
+packages = ["simplepypackage"]
 
 [project.urls]
 "Homepage" = "https://github.com/"
